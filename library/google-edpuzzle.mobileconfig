@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>Icon</key>
+            <data>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</data>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+<string>Google</string>
+            <key>PayloadDescription</key>
+            <string>Configures Web Clip</string>
+            <key>PayloadDisplayName</key>
+<string>Google</string>
+            <key>PayloadIdentifier</key>
+            <string>com.tommyfart.ibrew.webclip.WebClip-9l5h9t310</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>WebClip-9l5h9t310</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Precomposed</key>
+            <true/>
+            <key>URL</key>
+<string>https://edpuzzle.com.de</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+<string>Google</string>
+    <key>PayloadIdentifier</key>
+    <string>com.tommyfart.ibrew.WebClip-9l5h9t310</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>WebClip-9l5h9t310</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
